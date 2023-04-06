@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/furniture-store/static/css/main.e6c13ad2.css",
+    "main.js": "/furniture-store/static/js/main.2baad296.js",
+    "static/js/787.6b3367ce.chunk.js": "/furniture-store/static/js/787.6b3367ce.chunk.js",
+    "static/media/intro_bg.png": "/furniture-store/static/media/intro_bg.c40d6b264a26a5bbefe0.png",
+    "static/media/RocketSingle_s.png": "/furniture-store/static/media/RocketSingle_s.53ecd4e352a1488cc3c1.png",
+    "static/media/Cloud-sofa.png": "/furniture-store/static/media/Cloud-sofa.ff325bdd469db5e63a18.png",
+    "static/media/ss017_1.png": "/furniture-store/static/media/ss017_1.c494687ee6c7a5861012.png",
+    "static/media/ss011_1.png": "/furniture-store/static/media/ss011_1.861aa3ee1f8554d42e4b.png",
+    "static/media/ss004_1.png": "/furniture-store/static/media/ss004_1.8cb0689e6f372c0389f6.png",
+    "static/media/ss001_1.png": "/furniture-store/static/media/ss001_1.9e8c00822501f006ede3.png",
+    "static/media/ss002_1.png": "/furniture-store/static/media/ss002_1.e80b6f8ff7a2e76cdb39.png",
+    "static/media/ss003_1.png": "/furniture-store/static/media/ss003_1.d1a77e03228b8412ea28.png",
+    "static/media/ss012_1.png": "/furniture-store/static/media/ss012_1.d6705634e0c60140e255.png",
+    "static/media/ss016_1.png": "/furniture-store/static/media/ss016_1.28333ac4f8211045d0ee.png",
+    "static/media/ss009_1.png": "/furniture-store/static/media/ss009_1.6061cab9319b77a8b951.png",
+    "static/media/ss015_1.png": "/furniture-store/static/media/ss015_1.e1e32037a293491c72e4.png",
+    "static/media/ss008_1.png": "/furniture-store/static/media/ss008_1.4b514a30ee0cd23b6104.png",
+    "static/media/ss007_1.png": "/furniture-store/static/media/ss007_1.57f9b578b2b4afb41f03.png",
+    "static/media/ss013_1.png": "/furniture-store/static/media/ss013_1.4c424c15a3113009ed6c.png",
+    "static/media/ss006_1.png": "/furniture-store/static/media/ss006_1.07ee936e639a49300d86.png",
+    "static/media/ss014_1.png": "/furniture-store/static/media/ss014_1.565a70ae6612e150ee41.png",
+    "static/media/ss005_1.png": "/furniture-store/static/media/ss005_1.63b11c927c703da5998a.png",
+    "static/media/ss010_1.png": "/furniture-store/static/media/ss010_1.14d9fe46df85b85178ea.png",
+    "static/media/linkedin.svg": "/furniture-store/static/media/linkedin.19d5fdc7e3c378e747467f082411b35c.svg",
+    "index.html": "/furniture-store/index.html",
+    "static/media/twitter.svg": "/furniture-store/static/media/twitter.40ba187feaa105be6561fd5923b5cd7d.svg",
+    "static/media/facebook.svg": "/furniture-store/static/media/facebook.75d9b9d941eac0f383c1576c297f5945.svg",
+    "main.e6c13ad2.css.map": "/furniture-store/static/css/main.e6c13ad2.css.map",
+    "main.2baad296.js.map": "/furniture-store/static/js/main.2baad296.js.map",
+    "787.6b3367ce.chunk.js.map": "/furniture-store/static/js/787.6b3367ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2baad296.js"
+  ]
+}
