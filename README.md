@@ -1,6 +1,12 @@
 <h3>Furniture shop page</h3>
 <hr>
 
+![Screenshot 2023-04-06 120559](https://user-images.githubusercontent.com/113887977/230291809-6d06c087-682b-444a-88d9-3d343bf22f97.jpg)
+
+
+
+
+
 This is a React.js furniture-shop website was built as graduation project. It shows all benefits of creating websites using React.js 
 
 <h3>Technologies stack</h3> 
